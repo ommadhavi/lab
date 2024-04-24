@@ -534,7 +534,7 @@ def mod(x,y):
 
 Arithmatic.py
 
-from arith import *
+from cal import *
  a,b=int(input("Enter two numbers"))
  ch=int(input('Enter choice \n 1. Add \n 2. Sub \n 3. Mul \n 4. 
 Div \n 5. Mod'))
